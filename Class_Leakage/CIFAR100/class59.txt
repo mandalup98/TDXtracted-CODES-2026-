@@ -1,0 +1,16 @@
+# started on Sun Jun 29 11:14:59 2025
+
+#           time             counts unit events
+     0.039360722        3,98,94,606      cpu_clk_unhalted.ref_tsc                                      (68.75%)
+     0.039360722        3,13,95,672      l1d_pend_miss.pending                                         (70.17%)
+     0.039360722        7,38,23,096      cpu_clk_unhalted.thread_p                                     (78.98%)
+     0.039360722        4,53,78,512      uops_retired.stalls                                           (80.05%)
+     0.039360722        3,03,64,399      br_inst_retired.all_branches                                     (80.07%)
+     0.039360722       14,69,85,668      idq_uops_not_delivered.core                                     (78.00%)
+     0.039360722        5,17,72,595      mem_inst_retired.any                                          (81.10%)
+     0.039360722        5,51,48,143      mem_uop_retired.any                                           (86.48%)
+     0.039360722          65,43,348      memory_activity.stalls_l2_miss                                     (88.59%)
+     0.039360722          85,70,611      memory_activity.stalls_l1d_miss                                     (88.94%)
+     0.039360722        6,27,59,213      cycle_activity.cycles_mem_any                                     (78.47%)
+     0.039360722       20,16,41,538      uops_issued.any                                               (58.77%)
+     0.039360722           2,54,650      br_misp_retired.all_branches                                     (66.12%)

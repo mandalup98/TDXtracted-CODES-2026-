@@ -1,0 +1,2 @@
+cpu_clk_unhalted.ref_tsc,l1d_pend_miss.pending,cpu_clk_unhalted.thread_p,uops_retired.stalls,br_inst_retired.all_branches,idq_uops_not_delivered.core,mem_inst_retired.any,mem_uop_retired.any,memory_activity.stalls_l2_miss,memory_activity.stalls_l1d_miss,cycle_activity.cycles_mem_any,uops_issued.any,br_misp_retired.all_branches
+39894606,31395672,73823096,45378512,30364399,146985668,51772595,55148143,6543348,8570611,62759213,201641538,254650
