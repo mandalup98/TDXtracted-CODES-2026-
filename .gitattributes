@@ -9,3 +9,4 @@ Root_Cause/frontend/whetstone.txt filter=lfs diff=lfs merge=lfs -text
 Process_fingerprinting/nab.txt filter=lfs diff=lfs merge=lfs -text
 Root_Cause/frontend/shell16.txt filter=lfs diff=lfs merge=lfs -text
 Root_Cause/mem/shell16.txt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
