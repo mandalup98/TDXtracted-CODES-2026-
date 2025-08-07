@@ -4,4 +4,10 @@ This repository contains the accompanying code for "Looking through TDX: Guest E
 
 ## Directory Structure
 
+1. **`Establishing Leakage`**:
+
+2. **`Systematic Analysis and Process Identification`**
+   
+3. **`Lelage of Model Architecture`**:
+
 1. **`Class_Leakage_Attack`**:
