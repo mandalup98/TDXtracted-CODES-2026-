@@ -10,4 +10,4 @@ This repository contains the accompanying code for "Looking through TDX: Guest E
    
 3. **`Lelage of Model Architecture`**:
 
-1. **`Class_Leakage_Attack`**:
+4. **`Class_Leakage_Attack`**:
