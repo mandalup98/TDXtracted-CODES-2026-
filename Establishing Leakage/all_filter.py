@@ -3,7 +3,8 @@ import os
 
 # Base directory and benchmark list
 base_path = ""
-benchmarks = ["VMM_process_nops_1","TD_VMM_process_1","TDp+VMM_process"]
+# benchmarks = ["AttackerVMM_process","AttackerVMM+VictimTD_process"]
+benchmarks = ["AttackerVMM_process","AttackerVMM+VictimTD_process"]
 
 # Process each benchmark file
 for benchmark in benchmarks:
