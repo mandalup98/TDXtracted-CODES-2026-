@@ -8,6 +8,6 @@ This repository contains the accompanying code for "Looking through TDX: Guest E
 
 2. **`Systematic Analysis and Process Identification`** Contains all the codes and data needed for analysis of all the PMC events and also code for process identification. 
    
-3. **`Lekage of Model Architecture`**: Contains all the codes and data needed for leakage of Model Architecture. 
+3. **`Leakage of Model Architecture`**: Contains all the codes and data needed for leakage of Model Architecture. 
 
 4. **`Class Leakage Attack`**: Contains all the codes and data needed for performing the Class Leakage Attack. 
