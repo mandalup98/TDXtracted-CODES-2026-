@@ -12,7 +12,7 @@ This repository is the artifact accompanying the paper above. It contains the co
 
 ## Directory Structure
 
-The repository is organized to mirror the paper: **Part 1** covers in-band leakage (Sec. IV–V), **Part 2** covers out-of-band leakage (Sec. VI–VII).
+The repository is organized to mirror the paper: **Part 1** covers in-band leakage, **Part 2** covers out-of-band leakage.
 
 ```
 TDXtracted-CODES-2026-/
@@ -37,7 +37,7 @@ TDXtracted-CODES-2026-/
 └── requirements.txt
 ```
 
-### Part 1 — Exploitation of In-Band Performance Telemetry (Sec. IV–V)
+### Part 1 — Exploitation of In-Band Performance Telemetry 
 
 | Folder | What's inside |
 |---|---|
@@ -46,7 +46,7 @@ TDXtracted-CODES-2026-/
 | `Real-World ML Use Cases.../Leakage of DNN Model Architecture` | DNN family / sub-family fingerprinting |
 | `Real-World ML Use Cases.../Class_Leakage_Attack` | Inference-output / class leakage on CIFAR-10 and CIFAR-100 |
 
-### Part 2 — Exploitation of Out-of-Band Performance Telemetry (Sec. VI–VII)
+### Part 2 — Exploitation of Out-of-Band Performance Telemetry 
 
 | Folder  What's inside |
 |---|---|
