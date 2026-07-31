@@ -8,7 +8,7 @@ Accepted at **CODES+ISSS 2026**
 
 This repository is the artifact accompanying the paper above. It contains the code and datasets used to (1) establish and systematically characterize in-band PMC-based leakage from Intel TDX Trust Domains, and (2) reverse-engineer and exploit the out-of-band Efficient Performance Indicator (EPI) channel exposed via the BMC/PECI management interface.
 
-> **Hardware note for reviewers:** Full end-to-end reproduction (data *collection*) requires an Intel Xeon Sapphire Rapids server with TDX enabled and authenticated BMC/PECI access — this is not commodity/cloud-rentable hardware. All raw traces and datasets used in the paper are included in this repository, so the *analysis and classification pipeline* (training/evaluating the classifiers behind every table and figure in the paper) can be reproduced without specialized hardware. See [`STATUS.md`](STATUS.md) for exactly what is and isn't independently re-runnable.
+> **Hardware note for reviewers:** Full end-to-end reproduction (data *collection*) requires an Intel Xeon Sapphire Rapids server with TDX enabled and authenticated BMC/PECI access — this is not commodity/cloud-rentable hardware. All raw traces and datasets used in the paper are included in this repository, so the *analysis and classification pipeline* (training/evaluating the classifiers behind every table and figure in the paper) can be reproduced without specialized hardware.
 
 ## Directory Structure
 
