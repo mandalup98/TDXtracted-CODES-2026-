@@ -59,8 +59,6 @@ Each leaf folder generally contains a `code/` subfolder (data-collection + class
 ## Quick Links
 
 - 📄 Paper (camera-ready PDF): see submission portal / `paper.pdf` in this repo
-- 📋 [`REQUIREMENTS.md`](REQUIREMENTS.md) — hardware & software prerequisites
-- ⚙️ [`INSTALL.md`](INSTALL.md) — setup and how to run each component
 
 
 
