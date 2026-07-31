@@ -30,11 +30,6 @@ TDXtracted-CODES-2026-/
 │   └── Prompt-Topic Leakage/
 │
 ├── README.md
-├── REQUIREMENTS.md
-├── INSTALL.md
-├── STATUS.md
-├── LICENSE
-└── requirements.txt
 ```
 
 ### Part 1 — Exploitation of In-Band Performance Telemetry 
