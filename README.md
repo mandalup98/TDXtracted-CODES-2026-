@@ -51,9 +51,5 @@ TDXtracted-CODES-2026-/
 
 Each leaf folder generally contains a `code/` subfolder (data-collection + classifier scripts) and a `dataset/` subfolder (raw perf/PECI traces and CSVs used to produce the paper's tables/figures).
 
-## Quick Links
-
-- 📄 Paper (camera-ready PDF): see submission portal / `paper.pdf` in this repo
-
 
 
